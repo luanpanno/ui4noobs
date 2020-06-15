@@ -70,3 +70,5 @@ A branca é a cor mais pura. Assim sendo, ela remete à claridade, pureza, paz e
 O cinza é o resultado da junção do preto com o branco. E assim como suas primárias, ela ajuda a ressaltar as neutras. De maneira isolada, pode-se dizer que é uma cor agradável e que passa a sensação de modernidade e profissionalismo.
 
 * Sensações promovidas pela cor cinza:Inovação, tecnologia, seriedade, neutralidade e reflexão
+
+[Anterior](https://github.com/luanpanno/ui4noobs/blob/master/06-Componentes/Componentes.md) | [Próximo](https://github.com/luanpanno/ui4noobs/blob/master/08-Cores-quentes/Cores-quentes.md)

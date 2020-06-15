@@ -39,3 +39,5 @@ Lembre-se de que cada elemento tem seu significado e o seu propósito, cada elem
 É importante também manter a consistência em seus layouts, ***mas como assim?*** Não é uma boa prática por exemplo, por cada botão do site de uma cor ou cada título ter sua tipografia e cores diferentes uns dos outros (a menos que seja extremamente necessário), pois isso causará estranheza no usuário. 
 
 Além de tudo isso, não encha o seu site de coisas desnecessárias, coloque apenas o importante, informação em excesso também é algo ruim, coloque apenas o essencial de forma intuitiva ao usuário. 
+
+[Anterior](https://github.com/luanpanno/ui4noobs/blob/master/02-A-import%C3%A2ncia-do-UI/A-import%C3%A2ncia-do-UI.md) | [Próximo](https://github.com/luanpanno/ui4noobs/blob/master/04-Interface-Mobile/Interface-Mobile.md)

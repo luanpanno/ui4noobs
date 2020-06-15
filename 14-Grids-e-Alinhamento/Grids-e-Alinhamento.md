@@ -9,3 +9,5 @@ Quando as determinadas informações estão alinhadas e de acordo com o grid é 
 Separei alguns exemplos de grids para você compreender todo assunto comentado a cima.
 
 ![Grids](https://miro.medium.com/max/1824/1*f5JcAUOd7UZ_9fmRPDKNTA.png)
+
+[Anterior](https://github.com/luanpanno/ui4noobs/blob/master/13-%C3%8Dcones/Icones.md) | [Próximo](https://github.com/luanpanno/ui4noobs/blob/master/15-Microintera%C3%A7%C3%B5es/Microintera%C3%A7%C3%B5es.md)
